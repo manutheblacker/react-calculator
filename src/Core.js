@@ -1,7 +1,7 @@
 import { Button } from '@material-ui/core';
 import React, { Component } from 'react';
 
-
+/* eslint no-eval: 0 */
 export class Core extends Component {
     constructor(props){
         super(props)
